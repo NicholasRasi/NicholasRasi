@@ -1,6 +1,6 @@
 #### Hello there! 👋 I'm Nicholas Rasi
 
-I'm currently working at [Politecnico di Milano](https://github.com/deib-polimi) as a research assistant.
+I'm currently working at [WHIP](https://www.whip.live/) as a software engineer.
 
 My main areas of interest are:
 - microservices, serverless and more in general software architectures
@@ -14,9 +14,11 @@ My main areas of interest are:
 
 ### Latest projects
 
-- [SelfAdaptive-FedML](https://github.com/NicholasRasi/SelfAdaptive-FedML): L. Baresi, G. Quattrocchi and N. Rasi, "Federated Machine Learning as a Self-Adaptive Problem," in 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 pp. 41-47. url: https://doi.ieeecomputersociety.org/10.1109/SEAMS51251.2021.00016
+- [Federated Machine Learning](https://ieeexplore.ieee.org/document/9829276): L. Baresi, G. Quattrocchi and N. Rasi, "Open Challenges in Federated Machine Learning," in IEEE Internet Computing, 2022, doi: 10.1109/MIC.2022.3190552.
 
-- [TensorFlow + Adaptive resources control](https://github.com/NicholasRasi/ROMA2): this module implements the control theoretic solutions to manage the resources (CPUs and GPUs) in computing nodes (containers and VMs)
+- [Federated Machine Learning as a Self-Adaptive Problem](https://doi.ieeecomputersociety.org/10.1109/SEAMS51251.2021.00016) - [SelfAdaptive-FedML](https://github.com/NicholasRasi/SelfAdaptive-FedML): L. Baresi, G. Quattrocchi and N. Rasi, "Federated Machine Learning as a Self-Adaptive Problem," in 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2021 pp. 41-47, doi: 10.1109/SEAMS51251.2021.00016.
+
+- [Resource Management for TensorFlow Inference](https://doi.org/10.1007/978-3-030-91431-8_15) - [TensorFlow + Adaptive resources control](https://github.com/NicholasRasi/ROMA2): L. Baresi, G. Quattrocchi, N. Rasi. 2021. “Resource Management for TensorFlow Inference”. 2021 International Conference on Service-Oriented Computing (ICSOC), doi: 10.1007/978-3-030-91431-8_15. This module implements the control theoretic solutions to manage the resources (CPUs and GPUs) in computing nodes (containers and VMs).
 
 ### Cloud Related
 
